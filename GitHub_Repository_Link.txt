@@ -1,8 +1,8 @@
 GitHub Repository Link:
-https://github.com/your-username/taskflow-task-management
+https://github.com/MUKULJHA-134/TaskFlow_Minor_Project/
 
 Live Deployment Link (GitHub Pages):
-https://your-username.github.io/taskflow-task-management/
+https://github.com/MUKULJHA-134/TaskFlow_Minor_Project
 
 Live Deployment Link (Vercel):
 https://taskflow-task-management.vercel.app/
