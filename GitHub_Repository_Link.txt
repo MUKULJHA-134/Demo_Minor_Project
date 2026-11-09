@@ -5,7 +5,7 @@ Live Deployment Link (GitHub Pages):
 https://github.com/MUKULJHA-134/TaskFlow_Minor_Project
 
 Live Deployment Link (Vercel):
-taskflow-seven-psi-95.vercel.app
+https://taskflow-seven-psi-95.vercel.app/
 
 Instructions to Deploy on GitHub Pages:
 1. Push all source_code files to a GitHub repository
