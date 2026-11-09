@@ -240,8 +240,7 @@ npm i -g vercel
 cd source_code && vercel
 ```
 
-### Netlify
-- Drag & drop the `source_code/` folder onto [netlify.com/drop](https://app.netlify.com/drop)
+
 
 ---
 
